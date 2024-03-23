@@ -2,3 +2,7 @@ this is edited from vscode.
 
 this added from github
 
+need to done some changes as suggested by client.
+
+so do it from priority basis. vc.
+
